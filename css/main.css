@@ -1,0 +1,32 @@
+*{
+	margin : 0;
+	padding: 0;	
+}
+
+body,html { height: 100% }
+
+.content{
+	padding-top: 20px;
+	margin : 0 auto;
+	height: 100%;
+	background-color: #000;
+}
+
+.content h1{
+	text-align: center;
+	color: #fff;
+	margin: 0 auto 20px;
+}
+
+.content input {
+	padding: 8px;
+	border-radius: 6px;
+	margin: 10px;
+}
+
+.content button{
+	padding: 8px;
+	border-radius: 6px;
+	font-style: italic;
+	font-weight: bold;
+}
